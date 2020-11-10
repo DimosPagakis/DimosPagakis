@@ -27,3 +27,7 @@ I'm currently on the lookout for new frameworks and technologies to learn and al
 I never though of picking up coding until I was 19 years old but I have been in love ever since.
 
 I graduated from the Ionian University with a degree on the science of Information and Informatics with a grade of 8.17.
+
+I beat obesity and was able to drop a total of 50kg.
+
+I play basketball, visit the gym regularly and am always thinking of fun apps to create.
