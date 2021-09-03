@@ -30,9 +30,9 @@ I'm currently on the lookout for new frameworks and technologies to learn and al
 ### ⚡ Fun facts about me
 I never though of picking up coding until I was 19 years old but I have been in love ever since.
 
-I graduated from the Ionian University with a degree on the science of Information and Informatics with a 8.17 GPA.
+I graduated from the Ionian University of Informatics with a degree on the science of Information and Informatics with a 8.17 GPA.
 
-I beat obesity and was able to drop a total of 50kg.
+I beat obesity and was able to drop a total of 60kg.
 
 I play basketball, visit the gym regularly and am always thinking of fun apps to create.
 
