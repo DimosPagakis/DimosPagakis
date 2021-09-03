@@ -14,7 +14,7 @@ Dimitris, Haris and I have also created a pet project about university students'
 You can review the code base here. [API](https://github.com/BenSheep/API) & [Web App](https://github.com/BenSheep/Client)
 
 ### 🌱 I’m currently learning
-I'm currently on the lookout for new frameworks and technologies to learn and also taking an online nanodegree program at Udacity about [Product Management](https://www.udacity.com/course/product-manager-nanodegree--nd036)
+I'm currently on the lookout for new frameworks and technologies to learn. Recently, I graduated from a [Product Management](https://www.udacity.com/course/product-manager-nanodegree--nd036) nanodegree program provided by Udacity. Product Management is my future dream job and I'm actively gathering as much knowledge to be used when the opportuinity is presented.
 
  ### 👯 I’m looking to collaborate on
  Anything that piques my interest really. As long as I like the project and I do have time to put quality work in, I'm always up to the task.
