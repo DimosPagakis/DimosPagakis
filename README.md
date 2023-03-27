@@ -19,14 +19,6 @@ I'm currently on the lookout for new frameworks and technologies to learn. I als
  
  _2023 Update: I'm currently overwhelmed with work and not actively open to collaboration for the time being_
  
- ### Feel free to reach out
- [<img align="left" alt="dimosthenis-pagakis" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />](https://www.linkedin.com/in/dimosthenis-pagakis/)
-[<img align="left" alt="dimosthenis__pagakis" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" />](https://www.instagram.com/dimosthenis__pagakis/)
-
-<br/><br/>
- 
-  [![Dimos' github stats](https://github-readme-stats.vercel.app/api?username=DimosPagakis)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dark)
-
 ### ⚡ Fun facts about me
 I never though of picking up coding until I was 19 years old but I have been in love ever since.
 
@@ -36,3 +28,7 @@ I beat obesity and was able to drop a total of 60kg.
 
 I play basketball, visit the gym regularly and am always thinking of fun apps to create.
 
+ 
+ ### Feel free to reach out
+ [<img align="left" alt="dimosthenis-pagakis" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />](https://www.linkedin.com/in/dimosthenis-pagakis/)
+[<img align="left" alt="dimosthenis__pagakis" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" />](https://www.instagram.com/dimosthenis__pagakis/)
